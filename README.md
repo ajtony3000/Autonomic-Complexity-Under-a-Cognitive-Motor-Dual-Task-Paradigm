@@ -53,7 +53,7 @@ Running the pipeline automatically constructs the following directory hierarchy 
     │   └── cognitive_load.tsv
     └── Pipeline_Results/
         ├── Autonomic_Complexity_Results_CCS_Validated.csv
-        ├── Master_HRV_Behavioral_Dataset.csv
+        ├── Autonomic_Complexity_Cognitive_Load_Merged.csv
         ├── pipeline_run_log.txt
         ├── QC_Plots/
         ├── Publication_Figures/
